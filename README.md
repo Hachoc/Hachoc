@@ -3,8 +3,6 @@
 
 -C++ Developer
 
--HTML Developer
-
 -Developer and Owner of Hacho Client
 
 Discord: Hach0
