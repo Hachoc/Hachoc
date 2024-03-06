@@ -1,4 +1,4 @@
-<h1 align="center">Tulin xd</h1>
+<h1 align="center">Hacho Dev</h1>
 <img src="https://github.com/Hachoc/Hachoc/blob/main/Assets/HachoAnimated.gif" width="100%"/>
 
 -C++ Developer
