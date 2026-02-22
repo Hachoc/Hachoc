@@ -3,8 +3,8 @@
 
 -C++ Developer
 
--Developer and Owner of Hacho Client
+-Developer and Owner of Hacho Client (Prox Reborn)
 
-Discord: Hach0
+Discord: HachoDev
 
 
